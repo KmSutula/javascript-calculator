@@ -1,4 +1,4 @@
-
+<h1>JavaScript Calculator</h1>
 
 <h2>📋 Summary:</h2> 
 <p>Your classic JavaScript calculator that can handle basic calculations and continued calculations. Interactive with mouse and keyboard, this calculator is easy to use and responsive on multiple screen sizes. </p>
